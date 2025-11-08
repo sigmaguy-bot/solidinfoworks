@@ -1,0 +1,2 @@
+# solidinfoworks
+check the README
